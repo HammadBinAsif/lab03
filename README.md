@@ -1,4 +1,4 @@
-
+`
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # advanceLab3g25.R
@@ -25,12 +25,12 @@ And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("uzairjan/AdvancedRHT2021_Lab03")
+devtools::install_github("HammadBinAsif/lab03")
 ```
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+Example code to run
 
 ``` r
 library(advanceLab3g25.R)
